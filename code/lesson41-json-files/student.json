@@ -1,0 +1,12 @@
+{
+    "name": "Emma",
+    "age": 20,
+    "gpa": 3.8,
+    "is_active": true,
+    "courses": ["Python", "Math"],
+    "address": {
+        "city": "Victoria",
+        "country": "Canada"
+    },
+    "middle_name": null
+}

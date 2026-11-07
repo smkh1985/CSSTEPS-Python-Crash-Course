@@ -1,0 +1,2 @@
+Emma is 20 years old and studies Python.
+Sam is 22 years old and studies Math.

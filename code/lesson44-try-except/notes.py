@@ -1,0 +1,5 @@
+f = open("notes.txt", "w")
+f.write("Hello, file!")
+print("In the file:", len(open("notes.txt").read()), "characters")
+f.close()
+print("In the file:", len(open("notes.txt").read()), "characters")
